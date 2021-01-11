@@ -1,0 +1,3 @@
+# 1. get uniq layer-geometry pairs from the DWG file
+# 2. get 1200, 1300, MAP_TITLE, FORM_4, ...
+# 3. 
